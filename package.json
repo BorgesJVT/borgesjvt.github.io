@@ -1,10 +1,10 @@
 {
-  "name": "rubenspessoa.github.io",
+  "name": "borgesjvt.github.io",
   "version": "1.0.0",
   "description": "Personal Website",
   "main": "index.js",
-  "repository": "https://github.com/rubenspessoa/rubenspessoa.github.io.git",
-  "author": "Rubens Pessoa De Barros Filho <pessoadebarros@parkside.at>",
+  "repository": "https://github.com/borgesjvt/borgesjvt.github.io.git",
+  "author": "João Victor Torres Borges <borgesjvt@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.10.2",
